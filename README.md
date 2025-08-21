@@ -144,7 +144,6 @@
     <!-- Replace with an actual video file in your project folder -->
     <video controls>
       <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/224273932/479556975-539c5bcc-4aa1-4869-9712-8fbc9fffe128.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250819%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250819T142808Z&X-Amz-Expires=300&X-Amz-Signature=f4e3ca300f5bf4684821c6cc46767effd42d992b37b6f72ccc642ab9560c9528&X-Amz-SignedHeaders=host" type="video/mp4">
-      Your browser does not support the video tag.
     </video>
   </section>
 </body>
