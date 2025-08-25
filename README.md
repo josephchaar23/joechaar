@@ -142,7 +142,7 @@
   <section>
     <h2>Intro Video</h2>
     <video controls>
-      <source src="https://youtu.be/0I8f1bKq2l8" type="video/mp4">
+      <source href="https://youtu.be/0I8f1bKq2l8" type="video/mp4">
     </video>
   </section>
 </body>
